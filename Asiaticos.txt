@@ -1,0 +1,81 @@
+1. Descripción del Conjunto de Datos
+
+El conjunto de datos incluye las variables siguientes:
+
+    País: Nombre del país.
+    Año: Año de los datos.
+    PIB (actual US$): Producto Interno Bruto en dólares actuales.
+    Crecimiento del PIB (porcentaje anual): Crecimiento del PIB en porcentaje anual.
+    PIB per cápita (actual US$): PIB por americano en dólares actuales.
+    Desempleo, total (% de la fuerza laboral total): Tasa de desempleo total como porcentaje de la fuerza laboral total.
+    Población, totalidad: Población total.
+    Crecimiento de la población (porcentaje anual): Crecimiento anual en porcentaje.
+    Esperanza de vida al nacer, total (años): Esperanza de vida al nacer en años.
+    Tasa de mortalidad, bebé (por cada 1.000 nacidos vivos): Tasa de mortalidad infantil por cada dorso.
+
+
+A continuación se presenta un breve análisis específico por variable:
+
+    PIB (actual US$): Esta variable representa el Producto Interno Bruto total en dólares actuales. Se espera que tenga un medio de comunicación alta por la magnitud económica de algunos países.
+    PIB per cápita (actual US$): Refleja la riqueza por persona en un país. Es importante para entender el nivel de vida.
+    Desempleo: La tasa de desempleo es crucial para evaluar la salud económica y social.
+    Población: La población total es fundamental para entender la demografía y su impacto en la economía.
+    Esperanza de vida al nacer: Indicar la salud general y calidad de vida en un país.
+    Tasa de mortalidad: La tasa de mortalidad infantil es un indicador clave del desarrollo humano y acceso a servicios médicos.
+
+
+Resultados de la Prueba de Chi-cuadrado
+Afghanistan, Bhutan, Maldives, Sri Lanka, Nepal:
+
+Estadística chi-cuadrado: 0.0
+
+Valor p: 1.0
+
+Grados de libertad: 0
+
+Interpretación:
+
+La estadística chi-cuadrado de 0.0 y el valor p de 1.0 indican que no hay variación en los datos para estos países. Esto significa que no hay suficientes datos para realizar la prueba de Chi-cuadrado, o que todas las observaciones caen en una sola categoría, lo que resulta en grados de libertad de 0.
+
+Bangladesh:
+
+Estadística chi-cuadrado: 18.6
+
+Valor p: 0.0022812375361879423
+
+Grados de libertad: 5
+
+Interpretación:
+
+La estadística chi-cuadrado de 18.6 y el valor p de 0.0023 indican que hay una asociación significativa entre el PIB y la tasa de mortalidad infantil en Bangladesh. Dado que el valor p es menor que 0.05, rechazamos la hipótesis nula y concluimos que hay una relación significativa entre estas variables.
+
+India:
+
+Estadística chi-cuadrado: 87.7
+
+Valor p: 0.0004099347577358956
+
+Grados de libertad: 48
+
+Interpretación:
+
+La estadística chi-cuadrado de 87.7 y el valor p de 0.0004 indican que hay una asociación significativa entre el PIB y la tasa de mortalidad infantil en India. Dado que el valor p es menor que 0.05, rechazamos la hipótesis nula y concluimos que hay una relación significativa entre estas variables.
+
+Pakistan:
+
+Estadística chi-cuadrado: 4.363636363636364
+
+Valor p: 0.4983330092761674
+
+Grados de libertad: 5
+
+Interpretación:
+
+La estadística chi-cuadrado de 4.36 y el valor p de 0.4983 indican que no hay una asociación significativa entre el PIB y la tasa de mortalidad infantil en Pakistan. Dado que el valor p es mayor que 0.05, no podemos rechazar la hipótesis nula y concluimos que no hay evidencia suficiente para afirmar que hay una relación significativa entre estas variables.
+
+Conclusión General
+Para Afghanistan, Bhutan, Maldives, Sri Lanka, y Nepal, no hay suficientes datos para realizar la prueba de Chi-cuadrado.
+
+Para Bangladesh e India, hay una asociación significativa entre el PIB y la tasa de mortalidad infantil.
+
+Para Pakistan, no hay una asociación significativa entre el PIB y la tasa de mortalidad infantil.
