@@ -1,0 +1,68 @@
+
+📌 Pruebas de normalidad para GDP per capita por país:
+   ⚠️ Afghanistan: Datos insuficientes para evaluar GDP per capita.
+   ⚠️ Bhutan: Datos insuficientes para evaluar GDP per capita.
+   ⚠️ Bangladesh: Datos insuficientes para evaluar GDP per capita.
+   ⚠️ India: Datos insuficientes para evaluar GDP per capita.
+   ⚠️ Maldives: Datos insuficientes para evaluar GDP per capita.
+   ⚠️ Sri Lanka: Datos insuficientes para evaluar GDP per capita.
+   ⚠️ Nepal: Datos insuficientes para evaluar GDP per capita.
+   ⚠️ Pakistan: Datos insuficientes para evaluar GDP per capita.
+
+
+📌 Pruebas de normalidad para Unemployment por país:
+   🔹 Afghanistan → Estadística: 0.7073, Valor p: 0.0000
+      ❌ Los datos **no** siguen una distribución normal.
+   🔹 Bhutan → Estadística: 0.9201, Valor p: 0.0586
+      ✅ Los datos parecen seguir una distribución normal.
+   🔹 Bangladesh → Estadística: 0.9482, Valor p: 0.2471
+      ✅ Los datos parecen seguir una distribución normal.
+   🔹 India → Estadística: 0.7057, Valor p: 0.0000
+      ❌ Los datos **no** siguen una distribución normal.
+   🔹 Maldives → Estadística: 0.9608, Valor p: 0.4548
+      ✅ Los datos parecen seguir una distribución normal.
+   🔹 Sri Lanka → Estadística: 0.8928, Valor p: 0.0152
+      ❌ Los datos **no** siguen una distribución normal.
+   🔹 Nepal → Estadística: 0.3888, Valor p: 0.0000
+      ❌ Los datos **no** siguen una distribución normal.
+   🔹 Pakistan → Estadística: 0.7524, Valor p: 0.0001
+      ❌ Los datos **no** siguen una distribución normal.
+
+
+📌 Pruebas de normalidad para Life expectancy por país:
+   🔹 Afghanistan → Estadística: 0.3787, Valor p: 0.0000
+      ❌ Los datos **no** siguen una distribución normal.
+   🔹 Bhutan → Estadística: 0.3865, Valor p: 0.0000
+      ❌ Los datos **no** siguen una distribución normal.
+   🔹 Bangladesh → Estadística: 0.3557, Valor p: 0.0000
+      ❌ Los datos **no** siguen una distribución normal.
+   🔹 India → Estadística: 0.3674, Valor p: 0.0000
+      ❌ Los datos **no** siguen una distribución normal.
+   🔹 Maldives → Estadística: 0.3595, Valor p: 0.0000
+      ❌ Los datos **no** siguen una distribución normal.
+   🔹 Sri Lanka → Estadística: 0.3499, Valor p: 0.0000
+      ❌ Los datos **no** siguen una distribución normal.
+   🔹 Nepal → Estadística: 0.3411, Valor p: 0.0000
+      ❌ Los datos **no** siguen una distribución normal.
+   🔹 Pakistan → Estadística: 0.3023, Valor p: 0.0000
+      ❌ Los datos **no** siguen una distribución normal.
+
+
+📌 Pruebas de normalidad para Mortality rate por país:
+   🔹 Afghanistan → Estadística: 0.9088, Valor p: 0.0333
+      ❌ Los datos **no** siguen una distribución normal.
+   🔹 Bhutan → Estadística: 0.9540, Valor p: 0.3308
+      ✅ Los datos parecen seguir una distribución normal.
+   🔹 Bangladesh → Estadística: 0.9590, Valor p: 0.4193
+      ✅ Los datos parecen seguir una distribución normal.
+   🔹 India → Estadística: 0.9514, Valor p: 0.2911
+      ✅ Los datos parecen seguir una distribución normal.
+   🔹 Maldives → Estadística: 0.9296, Valor p: 0.0953
+      ✅ Los datos parecen seguir una distribución normal.
+   🔹 Sri Lanka → Estadística: 0.9712, Valor p: 0.6960
+      ✅ Los datos parecen seguir una distribución normal.
+   🔹 Nepal → Estadística: 0.9583, Valor p: 0.4049
+      ✅ Los datos parecen seguir una distribución normal.
+   🔹 Pakistan → Estadística: 0.7791, Valor p: 0.0001
+      ❌ Los datos **no** siguen una distribución normal.
+

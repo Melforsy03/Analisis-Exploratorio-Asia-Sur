@@ -1,0 +1,32 @@
+País: Afghanistan
+  t-statistic: 8.0024, p-value (unilateral): 1.0000
+  Conclusión: No se encontró diferencia significativa entre la tasa de mortalidad infantil en Afghanistan y 30.
+--------------------------------------------------
+País: Bhutan
+  t-statistic: 1.0130, p-value (unilateral): 0.8392
+  Conclusión: No se encontró diferencia significativa entre la tasa de mortalidad infantil en Bhutan y 30.
+--------------------------------------------------
+País: Bangladesh
+  t-statistic: 2.7108, p-value (unilateral): 0.9938
+  Conclusión: No se encontró diferencia significativa entre la tasa de mortalidad infantil en Bangladesh y 30.
+--------------------------------------------------
+País: India
+  t-statistic: 4.0921, p-value (unilateral): 0.9998
+  Conclusión: No se encontró diferencia significativa entre la tasa de mortalidad infantil en India y 30.
+--------------------------------------------------
+País: Maldives
+  t-statistic: -10.1977, p-value (unilateral): 0.0000
+  Conclusión: La tasa de mortalidad infantil en Maldives es significativamente menor que 30.
+--------------------------------------------------
+País: Sri Lanka
+  t-statistic: -26.2881, p-value (unilateral): 0.0000
+  Conclusión: La tasa de mortalidad infantil en Sri Lanka es significativamente menor que 30.
+--------------------------------------------------
+País: Nepal
+  t-statistic: 2.3834, p-value (unilateral): 0.9871
+  Conclusión: No se encontró diferencia significativa entre la tasa de mortalidad infantil en Nepal y 30.
+--------------------------------------------------
+País: Pakistan
+  t-statistic: 10.0697, p-value (unilateral): 1.0000
+  Conclusión: No se encontró diferencia significativa entre la tasa de mortalidad infantil en Pakistan y 30.
+--------------------------------------------------
